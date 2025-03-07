@@ -1,0 +1,25 @@
+{
+  "name": "playwright_softonix",
+  "version": "1.0.0",
+  "description": "This repository is created for test task Softonix company",
+  "main": "index.js",
+  "scripts": {
+    "test":"npx playwright test",
+    "test-ui":"npx playwright test --ui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsenluchka/playwright_softonix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsenluchka/playwright_softonix/issues"
+  },
+  "homepage": "https://github.com/arsenluchka/playwright_softonix#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@types/node": "^22.13.9"
+  }
+}
