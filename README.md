@@ -25,6 +25,6 @@ npm run test
 This will run your tests on all browsers as configured in the playwright.config file. 
 
 ```sh
-npm run test-ui'
+npm run test-ui
 ```
 This will run your tests in UI-Mode on all browsers as configured in the playwright.config file. 
